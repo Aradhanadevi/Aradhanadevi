@@ -61,6 +61,6 @@ I’m currently exploring Blender’s Grease Pencil to bring my 2D animations to
 ---
 
 Thanks for stopping by! Feel free to explore my repos and projects.  
-Let’s create something amazing together! 
+Bye :)
 ![image](https://github.com/user-attachments/assets/9a027234-edcd-409e-ba56-76bc3897630d)
 
