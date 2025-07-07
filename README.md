@@ -28,7 +28,7 @@ I aim to blend my creative design skills with backend development expertise to b
 ### Academic Credentials
 
 - Bachelor of Technology, Computer Engineering — Marwadi University, CGPA: 8.56  
-- HSC — St. Francis High School, 50th Percentile  
+- HSC — St. Francis High School, 56th Percentile  
 - SSC — St. Francis High School, 86th Percentile  
 
 ---
