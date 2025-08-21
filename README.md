@@ -1,4 +1,9 @@
 # Hi there, I'm Aradhanadevi Jadeja 👋
+## My SkillzEra App UML
+Here's a snapshot of the class structure for the SkillShareApp project:
+
+![SkillShare UML](https://raw.githubusercontent.com/Aradhanadevi/Aradhanadevi/main/assets/class_diagram.png)
+
 
 ---
 
