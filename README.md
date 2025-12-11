@@ -65,19 +65,20 @@ I’m currently exploring Blender’s Grease Pencil to bring my 2D animations to
 Thanks for stopping by! Feel free to explore my repos and projects.  
 Bye <3
 
+## 🌌 GitHub Stats
+
 <p align="center">
 
   <!-- Profile Views -->
   <img src="https://komarev.com/ghpvc/?username=Aradhanadevi&style=flat-square&color=blueviolet" />
 
   <!-- Main Stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=Aradhanadevi&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Aradhanadevi&show_icons=true&theme=tokyonight&count_private=true&include_all_commits=true" />
 
   <!-- Top Languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aradhanadevi&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Aradhanadevi&layout=compact&theme=tokyonight" />
 
   <!-- Streak Stats -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Aradhanadevi&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Aradhanadevi&theme=tokyonight&hide_border=true" />
 
 </p>
-
