@@ -70,12 +70,4 @@ Bye <3
 <p align="center">
   <img src="https://nirzak-streak-stats.vercel.app/?user=Aradhanadevi&theme=dark&hide_border=false" />
 </p>
-### 🏆 GitHub Trophies
-![trophy](https://github-profile-trophy.vercel.app/?username=Aradhanadevi&theme=onedark&margin-w=10&no-bg=true&no-frame=true)
-### 🛠 Tech Stack
-![My Skills](https://skillicons.dev/icons?i=react,androidstudio,java,kotlin,python,js,html,css,tailwind,firebase,git,figma,blender&perline=7)
-### 👀 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=Aradhanadevi&label=Visitors&color=blueviolet&style=flat-square)
-### 📊 Top Languages
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Aradhanadevi&layout=compact&theme=tokyonight)
 
